@@ -1,0 +1,15 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.bg-color-personalisado {
+    background-color: #373A3C;
+}
+
+header {
+    background-image: url('../img/bg-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 10rem;
+  }
+
